@@ -3,6 +3,9 @@ public class test1{
 	system.output.println("hello world");
 	
 	
+	system.output.println("hello world");
+	
+	
 	
 	}		
 
